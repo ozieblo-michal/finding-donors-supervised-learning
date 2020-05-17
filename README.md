@@ -1,5 +1,6 @@
 # finding-donors-supervised-learning
 Project 6: Finding Donors for CharityML (Supervised Learning)
+Introduction to Machine Learning with TensorFlow Nanodegree
 
 ### Problem to solve
 
